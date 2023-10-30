@@ -1,0 +1,8 @@
+__pycache__
+data_div/CICIDS2017/test/*
+data_div/CICIDS2017/train/*
+data_div/dapt2020/test/*
+data_div/dapt2020/train/*
+data_raw/CICIDS2017/*
+data_raw/dapt2020/*
+log/20*

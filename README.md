@@ -20,7 +20,7 @@ pandas~=1.3.5
 ### Download dataset
 CICIDS-2017 download [link](http://205.174.165.80/CICDataset/CIC-IDS-2017/Dataset/). Download GeneratedLabelledFlows.zip and place it in the directory "data_raw/CICIDS2017".
 
-DAPT2020 download [link](https://gitlab.com/asu22/dapt2020). The directory structure is "data_raw/dapt2020/csv/enp0s3-monday-pvt.pcap_Flow.csv"
+DAPT2020 download [link](https://gitlab.com/asu22/dapt2020). The directory structure is "data_raw/dapt2020/csv/enp0s3-monday-pvt.pcap_Flow.csv".
 
 ### Preprocessing dataset
 

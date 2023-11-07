@@ -211,5 +211,5 @@ class ResNet_apt_fc(nn.Module): # 不使用if构建，以支持jit编译
 MODEL_DICT = {"MLP": fully_connected_fc, "resnet": ResNet_apt_fc}
 
 
-def get_model(model_neme, device):
+def get_model(model_neme, device=torch.device("cuda")):
     return MODEL_DICT[model_neme]().to(device)

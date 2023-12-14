@@ -1,6 +1,6 @@
 # Privacy-preserving Few-shot Traffic Detection against Advanced Persistent Threats via Federated Meta Learning [[TNSE 2023]](https://ieeexplore.ieee.org/document/10214668)
 
-PyTorch implementation of the paper "[Privacy-preserving Few-shot Traffic Detection against Advanced Persistent Threats via Federated Meta Learning [TNSE 2023]](https://ieeexplore.ieee.org/document/10214668)"
+PyTorch implementation of the paper "Privacy-preserving Few-shot Traffic Detection against Advanced Persistent Threats via Federated Meta Learning [[TNSE 2023]](https://ieeexplore.ieee.org/document/10214668)"
 
 Code is modified from KarhouTam's [Per-FedAvg](https://github.com/KarhouTam/Per-FedAvg) project.
 
